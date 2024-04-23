@@ -1,6 +1,4 @@
 .devcontainer/*
-!.devcontainer/devcontainer.json
-
 .vscode/*
-!.vscode/c_cpp_properties.json
-!launch.json
+progress.txt
+dir_for_pracice/*
